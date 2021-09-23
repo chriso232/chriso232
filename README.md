@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chriso232
 - 👀 I’m interested in ... greenhouse and garden sensing and automation using raspberry pi, python, flask...
-- 🌱 I’m currently learning ... python, flask (for building the front end web based interface), charts.js, pandas,
+- 🌱 I’m currently learning ... python, flask (for building the front end web based interface), charts.js, pandas, BeautifulSoup (for scrapping weather data)
 - 💞️ I’m looking to collaborate on ... similar projects
 - 📫 How to reach me ...
 
